@@ -1,0 +1,56 @@
+Privacy Policy
+App: AnxietyBuster  ·  Package: com.anxietybuster  ·  Last updated: February 2026
+
+The short version: AnxietyBuster runs entirely on your device. Your sessions, responses, and personal data are never uploaded, never shared, and never seen by us. We structurally cannot access them — they live only on your phone.
+1. Who We Are
+AnxietyBuster is an anxiety support app built around a core principle: your mental health data belongs to you, only. The app is operated by [Your Name / Company Name] ("we", "our", "us").
+
+2. What Data We Collect
+We collect nothing that identifies you. Specifically:
+
+No name, email, or account — no sign-up required
+No session content — your answers, reflections, and exercise responses never leave your device
+No location data
+No device identifiers linked to you personally
+On first launch, the app generates a random anonymous local ID stored only on your device. This ID is never transmitted and cannot be traced back to you.
+
+3. What Stays On Your Device
+All of the following are stored locally using Android's secure storage (AsyncStorage) and never leave your phone:
+
+Session history and responses
+Breathing and grounding exercise logs
+Your personalization weights (how the app adapts to you over time)
+Ratings and feedback you give within the app
+Deleting the app permanently deletes all of this data. We have no copy.
+
+4. Optional Anonymous Analytics
+To improve the app, we may collect fully anonymous, aggregated usage signals — such as which intervention types were used, session duration buckets (e.g. "5–10 min"), and feature ratings. This data:
+
+Contains no personally identifiable information (PII)
+Is queued locally and only uploaded when you have network access
+Cannot be linked to you, your device, or your sessions
+Is used solely to understand which features are helpful
+You can use the app fully offline and this queue will never be sent. During the testing period, this feature may be disabled entirely.
+
+5. Third-Party Services
+The core app uses no third-party SDKs that collect data. All AI processing runs on-device using a local language model. No data is sent to any AI provider, cloud service, or analytics platform.
+
+If we add third-party services in the future (e.g. crash reporting), this policy will be updated and you will be notified in the app before any such service is activated.
+
+6. Children's Privacy
+AnxietyBuster is intended for users aged 16 and over. We do not knowingly collect any data from children. Because all data stays on-device and no account is required, our architecture provides strong protection regardless of age.
+
+7. Data Security
+Because your data never leaves your device, the primary security layer is your phone's own security (screen lock, device encryption). We recommend keeping your device's operating system up to date.
+
+8. Your Rights
+Since we hold no personal data about you, most data rights (access, deletion, portability) are exercised directly on your device by using the app's clear history feature or uninstalling the app. If you have questions, contact us below.
+
+9. Changes to This Policy
+If we make material changes to how data is handled, we will update this page and display a notice inside the app. The date at the top of this page will always reflect the most recent revision.
+
+10. Contact
+Questions about this privacy policy? Reach us at:
+
+[Your Name / Company]
+Email: [your@email.com]
